@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "JC's Automotive",
+    "shortName": "JC's Automotive",
+    "tagline": "Your Trusted Auto Mechanic in Dallas, TX",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 388-7121",
+    "address": "Dallas, TX",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:00 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "JC's Automotive | Expert Auto Mechanic in Dallas, TX | (214) 388-7121",
+    "description": "JC's Automotive offers reliable auto repair and maintenance in Dallas, TX. From brake repair to engine diagnostics, trust our expert mechanics. Call (214) 388-7121."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Auto Repair Experts",
+      "headline": "Professional Auto Mechanic Services in Dallas, TX",
+      "subheadline": "Reliable, honest, and affordable car repairs to keep you safely on the road.",
+      "primaryCta": "Call (214) 388-7121",
+      "secondaryCta": "Learn More"
+    },
+    "stats": [
+      {
+        "value": "4.5",
+        "label": "Star Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Expert Diagnostics",
+        "title": "State-of-the-Art Diagnostic Services",
+        "body": "Using advanced diagnostic tools, we quickly identify issues to save you time and money.",
+        "bullets": [
+          "Computerized engine analysis",
+          "Check engine light diagnosis",
+          "Comprehensive vehicle inspection"
+        ],
+        "reverse": false,
+        "cardLabel": "Diagnostics",
+        "cardTitle": "Fast & Accurate",
+        "cardBody": "We pinpoint problems the first time."
+      },
+      {
+        "eyebrow": "Full-Service Repairs",
+        "title": "Complete Auto Repair & Maintenance",
+        "body": "From oil changes to major engine repairs, our certified mechanics handle it all.",
+        "bullets": [
+          "Brake repair & replacement",
+          "Transmission services",
+          "AC & heating repair"
+        ],
+        "reverse": true,
+        "cardLabel": "Repairs",
+        "cardTitle": "Quality Workmanship",
+        "cardBody": "We use top-quality parts for lasting results."
+      }
+    ],
+    "whyTitle": "Why Choose JC's Automotive?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team is ASE-certified and continuously trained on the latest automotive technology."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide upfront estimates with no hidden fees, so you know exactly what to expect."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "We stand by our work with a 100% satisfaction guarantee on all repairs."
+      },
+      {
+        "title": "Convenient Location",
+        "description": "Located in Dallas with easy access and quick turnaround times."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "JC's Automotive fixed my brake issue quickly and at a fair price. I highly recommend them!",
+        "author": "Tom R.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "Honest mechanics who don't upsell. They explained everything and had my car ready same day.",
+        "author": "Maria L.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "I've been bringing my car here for years. Always reliable and professional.",
+        "author": "James K.",
+        "role": "Downtown Dallas commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Running Smoothly?",
+      "subheadline": "Call us today or schedule an appointment online.",
+      "primaryCta": "Call (214) 388-7121",
+      "secondaryCta": "Contact Us"
+    }
+  },
+  "servicesPage": {
+    "intro": "At JC's Automotive, we offer a full range of auto repair and maintenance services for all makes and models. Our experienced technicians use the latest tools and techniques to ensure your vehicle runs safely and efficiently."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Comprehensive engine diagnostics and repair to restore performance.",
+      "longDescription": "Our advanced diagnostic equipment quickly identifies engine issues, from misfires to complex sensor problems. We provide precise repairs using quality parts to ensure long-lasting results.",
+      "benefits": [
+        "Accurate problem detection",
+        "Improved fuel efficiency",
+        "Extended engine life",
+        "Peace of mind"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect to your vehicle's computer to read error codes and data."
+        },
+        {
+          "title": "Inspection & Test",
+          "description": "Our technicians perform a thorough inspection and road test."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We complete the repair and verify performance with a final test."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within 1-2 hours, depending on complexity."
+        },
+        {
+          "question": "Do I need an appointment?",
+          "answer": "Appointments are recommended, but we accept walk-ins as time allows."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair & Service",
+      "shortDescription": "Expert brake inspection, repair, and replacement for safety.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid, and provide high-quality replacements to restore stopping power.",
+      "benefits": [
+        "Enhanced safety",
+        "Reduced stopping distance",
+        "Quieter operation",
+        "Warranty on parts"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We check brake pads, rotors, calipers, and fluid levels."
+        },
+        {
+          "title": "Component Replacement",
+          "description": "Worn parts are replaced with premium components."
+        },
+        {
+          "title": "System Test",
+          "description": "We test the brakes for proper function and road test the vehicle."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace brake pads?",
+          "answer": "Typically every 30,000-70,000 miles, depending on driving habits."
+        },
+        {
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, vibration, or a soft brake pedal."
+        }
+      ],
+      "slug": "brake-repair-service"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Maintenance",
+      "shortDescription": "Regular oil changes and preventive maintenance to keep your car running.",
+      "longDescription": "Routine oil changes are vital for engine health. We use quality oils and filters, and also offer multi-point inspections to catch issues early.",
+      "benefits": [
+        "Extended engine life",
+        "Better fuel economy",
+        "Preventive care",
+        "Complimentary fluid top-off"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the filter."
+        },
+        {
+          "title": "Add Fresh Oil",
+          "description": "We add the correct grade and amount of fresh oil."
+        },
+        {
+          "title": "Multi-Point Check",
+          "description": "We inspect belts, hoses, fluids, and tire pressure."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I change my oil?",
+          "answer": "Every 3,000-5,000 miles for conventional oil, or as recommended by your manufacturer."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic options."
+        }
+      ],
+      "slug": "oil-change-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
+      "longDescription": "Whether your AC blows warm air or your heater isn't working, we diagnose and repair climate control systems to keep you comfortable year-round.",
+      "benefits": [
+        "Comfort in all seasons",
+        "Defogging capability",
+        "Improved air quality",
+        "System longevity"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor, and heater core."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "We use UV dye and electronic detectors to find leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We repair components and recharge the system to specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC not cold?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak."
+        },
+        {
+          "question": "How long does an AC repair take?",
+          "answer": "Most repairs are completed within 2-4 hours."
+        }
+      ],
+      "slug": "ac-heating-repair"
+    }
+  ],
+  "about": {
+    "headline": "About JC's Automotive",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep Dallas drivers safe and satisfied.",
+    "story": [
+      "JC's Automotive has been a trusted name in Dallas auto repair for over 15 years. Founded by John Carter, a master mechanic with a passion for cars, our shop started as a small two-bay garage and has grown into a full-service facility serving thousands of customers. We believe in transparency, quality workmanship, and building long-term relationships with our clients.",
+      "Today, we employ a team of ASE-certified technicians who share our commitment to excellence. We invest in the latest diagnostic equipment and training to handle everything from routine maintenance to complex repairs. Our goal is simple: get you back on the road safely and affordably."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell you what your car needs and why."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and stand behind our work."
+      },
+      {
+        "title": "Reliability",
+        "description": "We complete repairs on time, every time."
+      },
+      {
+        "title": "Community",
+        "description": "We proudly serve Dallas and support local causes."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Call us or stop by for a free estimate.",
+    "primaryCta": "Call (214) 388-7121",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Lakewood",
+      "Highland Park",
+      "University Park",
+      "Uptown",
+      "Downtown Dallas"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.5,
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143887121",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
