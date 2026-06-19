@@ -2,38 +2,38 @@
   "business": {
     "name": "JC's Automotive",
     "shortName": "JC's Automotive",
-    "tagline": "Your Trusted Auto Mechanic in Dallas, TX",
+    "tagline": "Dallas' Trusted Auto Repair & Maintenance Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 388-7121",
-    "address": "Dallas, TX",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:00 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Your Appointment Today",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM, Sat: 8:00 AM - 12:00 PM, Sun: Closed",
+    "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "JC's Automotive | Expert Auto Mechanic in Dallas, TX | (214) 388-7121",
-    "description": "JC's Automotive offers reliable auto repair and maintenance in Dallas, TX. From brake repair to engine diagnostics, trust our expert mechanics. Call (214) 388-7121."
+    "description": "JC's Automotive offers premium auto repair and maintenance in Dallas, TX. From brakes to engines, trust our certified mechanics for quality service. Call (214) 388-7121 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair Experts",
-      "headline": "Professional Auto Mechanic Services in Dallas, TX",
-      "subheadline": "Reliable, honest, and affordable car repairs to keep you safely on the road.",
-      "primaryCta": "Call (214) 388-7121",
-      "secondaryCta": "Learn More"
+      "eyebrow": "Dallas' Premier Auto Repair Shop",
+      "headline": "Expert Auto Mechanic in Dallas, TX",
+      "subheadline": "Quality repairs, transparent pricing, and fast turnaround — backed by 4.5 stars from your neighbors.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 388-7121"
     },
     "stats": [
+      {
+        "value": "20+",
+        "label": "Years Experience"
+      },
       {
         "value": "4.5",
         "label": "Star Rating"
       },
       {
-        "value": "15+",
-        "label": "Years Experience"
-      },
-      {
-        "value": "1000+",
+        "value": "2,000+",
         "label": "Cars Serviced"
       },
       {
@@ -43,278 +43,279 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Expert Diagnostics",
-        "title": "State-of-the-Art Diagnostic Services",
-        "body": "Using advanced diagnostic tools, we quickly identify issues to save you time and money.",
+        "eyebrow": "Precision Diagnostics",
+        "title": "Advanced Computer Diagnostics for Accurate Repairs",
+        "body": "Our state-of-the-art diagnostic equipment pinpoints issues quickly, saving you time and money. No guesswork, just precise results.",
         "bullets": [
-          "Computerized engine analysis",
-          "Check engine light diagnosis",
-          "Comprehensive vehicle inspection"
+          "OEM-grade scan tools",
+          "Engine, transmission, and electrical system checks",
+          "Detailed report with repair options"
         ],
         "reverse": false,
         "cardLabel": "Diagnostics",
         "cardTitle": "Fast & Accurate",
-        "cardBody": "We pinpoint problems the first time."
+        "cardBody": "We identify the root cause in minutes, not hours."
       },
       {
-        "eyebrow": "Full-Service Repairs",
-        "title": "Complete Auto Repair & Maintenance",
-        "body": "From oil changes to major engine repairs, our certified mechanics handle it all.",
+        "eyebrow": "Preventive Maintenance",
+        "title": "Keep Your Car Running Smoothly",
+        "body": "Regular maintenance extends your vehicle's life and prevents costly breakdowns. We follow manufacturer schedules for every make and model.",
         "bullets": [
-          "Brake repair & replacement",
-          "Transmission services",
-          "AC & heating repair"
+          "Oil changes, fluid flushes, and filter replacements",
+          "Tire rotations and brake inspections",
+          "Belt, hose, and battery checks"
         ],
         "reverse": true,
-        "cardLabel": "Repairs",
-        "cardTitle": "Quality Workmanship",
-        "cardBody": "We use top-quality parts for lasting results."
+        "cardLabel": "Maintenance",
+        "cardTitle": "Peace of Mind",
+        "cardBody": "Stay ahead of repairs with our comprehensive maintenance plans."
       }
     ],
     "whyTitle": "Why Choose JC's Automotive?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our team is ASE-certified and continuously trained on the latest automotive technology."
+        "description": "Our ASE-certified mechanics have decades of combined experience and continuous training."
       },
       {
         "title": "Transparent Pricing",
-        "description": "We provide upfront estimates with no hidden fees, so you know exactly what to expect."
+        "description": "No hidden fees. We provide upfront estimates and explain every repair before work begins."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most services completed same-day. We respect your time and keep you informed."
       },
       {
         "title": "Customer Satisfaction",
-        "description": "We stand by our work with a 100% satisfaction guarantee on all repairs."
-      },
-      {
-        "title": "Convenient Location",
-        "description": "Located in Dallas with easy access and quick turnaround times."
+        "description": "We stand behind our work with a 12-month/12,000-mile warranty on parts and labor."
       }
     ],
     "testimonials": [
       {
-        "quote": "JC's Automotive fixed my brake issue quickly and at a fair price. I highly recommend them!",
-        "author": "Tom R.",
+        "quote": "JC's Automotive saved me hundreds compared to the dealer. They diagnosed my check engine light fast and fixed it right.",
+        "author": "Mike R.",
         "role": "Oak Lawn resident"
       },
       {
-        "quote": "Honest mechanics who don't upsell. They explained everything and had my car ready same day.",
-        "author": "Maria L.",
+        "quote": "I trust JC's with my whole family's cars. Honest, fair, and they always get it done on time.",
+        "author": "Linda T.",
         "role": "Lakewood homeowner"
       },
       {
-        "quote": "I've been bringing my car here for years. Always reliable and professional.",
+        "quote": "Best mechanic in Dallas! They explained everything clearly and didn't try to upsell me. Highly recommend.",
         "author": "James K.",
-        "role": "Downtown Dallas commuter"
+        "role": "Bishop Arts District"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Running Smoothly?",
-      "subheadline": "Call us today or schedule an appointment online.",
-      "primaryCta": "Call (214) 388-7121",
-      "secondaryCta": "Contact Us"
+      "headline": "Ready to Get Your Car Back on the Road?",
+      "subheadline": "Call us or book online for fast, reliable service.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 388-7121"
     }
   },
   "servicesPage": {
-    "intro": "At JC's Automotive, we offer a full range of auto repair and maintenance services for all makes and models. Our experienced technicians use the latest tools and techniques to ensure your vehicle runs safely and efficiently."
+    "intro": "From routine oil changes to major engine repairs, JC's Automotive offers complete auto repair and maintenance services for all makes and models in Dallas, TX."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Comprehensive engine diagnostics and repair to restore performance.",
-      "longDescription": "Our advanced diagnostic equipment quickly identifies engine issues, from misfires to complex sensor problems. We provide precise repairs using quality parts to ensure long-lasting results.",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Restore stopping power with expert brake service.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. At JC's Automotive, we inspect, repair, and replace pads, rotors, calipers, and brake lines using premium parts. Whether you hear squeaking or feel vibration, we'll get you stopping safely.",
       "benefits": [
-        "Accurate problem detection",
-        "Improved fuel efficiency",
-        "Extended engine life",
-        "Peace of mind"
+        "Enhanced safety for you and your family",
+        "Quieter, smoother braking performance",
+        "Extended brake system life",
+        "Competitive pricing with warranty"
       ],
       "process": [
         {
-          "title": "Computer Scan",
-          "description": "We connect to your vehicle's computer to read error codes and data."
+          "title": "Thorough Inspection",
+          "description": "We check pads, rotors, calipers, lines, and fluid levels."
         },
         {
-          "title": "Inspection & Test",
-          "description": "Our technicians perform a thorough inspection and road test."
+          "title": "Precision Replacement",
+          "description": "We install OEM-quality parts with proper bedding."
         },
         {
-          "title": "Repair & Verification",
-          "description": "We complete the repair and verify performance with a final test."
+          "title": "Final Test Drive",
+          "description": "We test brakes at various speeds to ensure perfect operation."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within 1-2 hours, depending on complexity."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits. We'll inspect them during every service."
         },
         {
-          "question": "Do I need an appointment?",
-          "answer": "Appointments are recommended, but we accept walk-ins as time allows."
+          "question": "What causes brake noise?",
+          "answer": "Worn pads, glazed rotors, or debris. We'll diagnose the exact cause during inspection."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Advanced diagnostics to solve check engine lights and performance issues.",
+      "longDescription": "When your check engine light comes on or your car feels sluggish, bring it to JC's Automotive. Our advanced diagnostic tools read codes and perform live data analysis to pinpoint the problem. From sensor replacements to major engine work, we have you covered.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Restored engine performance and fuel economy",
+        "Prevents minor issues from becoming major",
+        "Backed by our satisfaction guarantee"
+      ],
+      "process": [
+        {
+          "title": "Code Scan & Analysis",
+          "description": "We read all diagnostic trouble codes and capture live data."
+        },
+        {
+          "title": "Systematic Testing",
+          "description": "We test components like sensors, coils, and fuel systems."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We fix the issue and re-scan to confirm no codes return."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose a check engine light without a dealer?",
+          "answer": "Absolutely. Our tools are dealer-level and work on all makes and models."
+        },
+        {
+          "question": "Why is my engine misfiring?",
+          "answer": "Common causes include spark plugs, ignition coils, or fuel injectors. We'll isolate the cylinder and fix it."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "02",
-      "title": "Brake Repair & Service",
-      "shortDescription": "Expert brake inspection, repair, and replacement for safety.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid, and provide high-quality replacements to restore stopping power.",
-      "benefits": [
-        "Enhanced safety",
-        "Reduced stopping distance",
-        "Quieter operation",
-        "Warranty on parts"
-      ],
-      "process": [
-        {
-          "title": "Brake Inspection",
-          "description": "We check brake pads, rotors, calipers, and fluid levels."
-        },
-        {
-          "title": "Component Replacement",
-          "description": "Worn parts are replaced with premium components."
-        },
-        {
-          "title": "System Test",
-          "description": "We test the brakes for proper function and road test the vehicle."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace brake pads?",
-          "answer": "Typically every 30,000-70,000 miles, depending on driving habits."
-        },
-        {
-          "question": "What are signs of brake problems?",
-          "answer": "Squealing, grinding, vibration, or a soft brake pedal."
-        }
-      ],
-      "slug": "brake-repair-service"
-    },
-    {
       "icon": "03",
-      "title": "Oil Change & Maintenance",
-      "shortDescription": "Regular oil changes and preventive maintenance to keep your car running.",
-      "longDescription": "Routine oil changes are vital for engine health. We use quality oils and filters, and also offer multi-point inspections to catch issues early.",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
+      "longDescription": "Routine oil changes are the best way to extend engine life. At JC's Automotive, we use high-quality synthetic and conventional oils. We also check and top off all other fluids — coolant, brake fluid, transmission fluid, and more — to keep your car running smoothly.",
       "benefits": [
-        "Extended engine life",
-        "Better fuel economy",
-        "Preventive care",
-        "Complimentary fluid top-off"
+        "Improved engine longevity and performance",
+        "Better fuel efficiency",
+        "Prevents costly engine damage",
+        "Complimentary multi-point inspection included"
       ],
       "process": [
         {
-          "title": "Drain Old Oil",
-          "description": "We drain the old oil and replace the filter."
+          "title": "Drain & Replace Oil",
+          "description": "We drain old oil and replace with the correct grade and filter."
         },
         {
-          "title": "Add Fresh Oil",
-          "description": "We add the correct grade and amount of fresh oil."
+          "title": "Fluid Level Check",
+          "description": "We inspect and top off all critical fluids."
         },
         {
-          "title": "Multi-Point Check",
-          "description": "We inspect belts, hoses, fluids, and tire pressure."
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, tires, and lights for your safety."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I change my oil?",
-          "answer": "Every 3,000-5,000 miles for conventional oil, or as recommended by your manufacturer."
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need oil every 5,000-7,500 miles. We'll recommend the best interval for your vehicle."
         },
         {
-          "question": "What type of oil do you use?",
-          "answer": "We offer conventional, synthetic blend, and full synthetic options."
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer synthetic and conventional options to match your manufacturer's specs."
         }
       ],
-      "slug": "oil-change-maintenance"
+      "slug": "oil-change-fluid-services"
     },
     {
       "icon": "04",
-      "title": "AC & Heating Repair",
-      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
-      "longDescription": "Whether your AC blows warm air or your heater isn't working, we diagnose and repair climate control systems to keep you comfortable year-round.",
+      "title": "Tire Services & Wheel Alignment",
+      "shortDescription": "Maximize tire life and handling with professional tire care.",
+      "longDescription": "Proper tire maintenance ensures safety, comfort, and fuel efficiency. JC's Automotive offers tire rotation, balancing, mounting, and wheel alignment services. We'll help you choose the right tires for your driving needs and keep them in top shape.",
       "benefits": [
-        "Comfort in all seasons",
-        "Defogging capability",
-        "Improved air quality",
-        "System longevity"
+        "Even tire wear extends tread life",
+        "Better handling and ride comfort",
+        "Improved fuel economy",
+        "Reduced risk of blowouts"
       ],
       "process": [
         {
-          "title": "System Inspection",
-          "description": "We check refrigerant levels, compressor, and heater core."
+          "title": "Inspection & Pressure Check",
+          "description": "We inspect tread depth, wear patterns, and adjust pressure."
         },
         {
-          "title": "Leak Detection",
-          "description": "We use UV dye and electronic detectors to find leaks."
+          "title": "Rotation & Balancing",
+          "description": "We rotate tires to promote even wear and balance each wheel."
         },
         {
-          "title": "Repair & Recharge",
-          "description": "We repair components and recharge the system to specifications."
+          "title": "Precision Alignment",
+          "description": "We adjust camber, caster, and toe to manufacturer specs."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my AC not cold?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak."
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000-7,500 miles, typically with an oil change."
         },
         {
-          "question": "How long does an AC repair take?",
-          "answer": "Most repairs are completed within 2-4 hours."
+          "question": "What are signs I need an alignment?",
+          "answer": "Pulling to one side, uneven tire wear, or a crooked steering wheel when driving straight."
         }
       ],
-      "slug": "ac-heating-repair"
+      "slug": "tire-services-wheel-alignment"
     }
   ],
   "about": {
-    "headline": "About JC's Automotive",
-    "mission": "Our mission is to provide honest, high-quality auto repair services that keep Dallas drivers safe and satisfied.",
+    "headline": "Your Neighborhood Auto Repair Experts Since 2004",
+    "mission": "To provide honest, high-quality auto repair that keeps Dallas drivers safe and moving.",
     "story": [
-      "JC's Automotive has been a trusted name in Dallas auto repair for over 15 years. Founded by John Carter, a master mechanic with a passion for cars, our shop started as a small two-bay garage and has grown into a full-service facility serving thousands of customers. We believe in transparency, quality workmanship, and building long-term relationships with our clients.",
-      "Today, we employ a team of ASE-certified technicians who share our commitment to excellence. We invest in the latest diagnostic equipment and training to handle everything from routine maintenance to complex repairs. Our goal is simple: get you back on the road safely and affordably."
+      "JC's Automotive was founded on a simple belief: car repairs shouldn't be a hassle. For over 20 years, we've been serving the Dallas community with transparent service, skilled technicians, and a commitment to doing the job right the first time. What started as a small shop has grown into a trusted destination for drivers across the city.",
+      "Our team of ASE-certified mechanics stays up-to-date with the latest automotive technology, from hybrid systems to advanced diagnostics. We treat every car like it's our own, and every customer like a neighbor. Whether it's a quick oil change or a complex engine repair, you can count on JC's Automotive for quality work and fair prices."
     ],
     "highlight": {
-      "stat": "15+",
-      "label": "Years of Service"
+      "stat": "4.5",
+      "label": "Star Rating from Happy Customers"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs and why."
+        "description": "We never recommend unnecessary repairs. Our estimates are honest and detailed."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and stand behind our work."
-      },
-      {
-        "title": "Reliability",
-        "description": "We complete repairs on time, every time."
+        "description": "We use only high-quality parts and back our work with a solid warranty."
       },
       {
         "title": "Community",
-        "description": "We proudly serve Dallas and support local causes."
+        "description": "We're proud to serve Dallas and support local events and causes."
+      },
+      {
+        "title": "Reliability",
+        "description": "We deliver on time, every time, so you can get back on the road."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Call us or stop by for a free estimate.",
+    "headline": "Get in Touch with JC's Automotive",
+    "subheadline": "Schedule your appointment today or stop by — we're ready to help.",
     "primaryCta": "Call (214) 388-7121",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Oak Lawn",
       "Lakewood",
-      "Highland Park",
-      "University Park",
+      "Bishop Arts District",
       "Uptown",
-      "Downtown Dallas"
+      "Deep Ellum",
+      "Highland Park",
+      "University Park"
     ]
   },
   "social_proof": {
     "rating": 4.5,
-    "reviews": ""
+    "reviews": null
   },
   "meta": {
     "niche": "Auto Mechanic",
